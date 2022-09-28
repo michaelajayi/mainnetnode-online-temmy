@@ -63,7 +63,7 @@ const Banner = () => {
               className='bg-brightblue shadow-none border-0 px-4 py-3 fw-bold sync__button text-white rounded-1'
               ref={buttonRef}
             >
-              Synchronize Wallet
+              Synchronize/Verify Mainnet Connection
             </a>
           </div>
         </div>
