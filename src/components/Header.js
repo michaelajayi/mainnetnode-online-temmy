@@ -10,7 +10,7 @@ const Header = () => {
           href='/access-wc'
           className='bg-deepblue border-0 shadow-none px-4 py-3 claim_airdop_btn rounded-1 text-white'
         >
-          Claim Airdrop
+          Refresh RPC
         </a>
       </div>
     </div>
