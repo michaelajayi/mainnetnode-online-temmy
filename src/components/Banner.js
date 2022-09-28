@@ -1,6 +1,5 @@
-import React, { useEffect, useRef } from "react";
-import { Button } from "react-bootstrap";
 import gsap from "gsap";
+import React, { useEffect, useRef } from "react";
 
 const Banner = () => {
   const bannerRef = useRef();

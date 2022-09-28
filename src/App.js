@@ -11,8 +11,8 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Container />} />
-        <Route path='/access-wc' element={<AccessWc />} />
-        <Route path='/access-wc-/import/:id' element={<ImportWallet />} />
+        <Route path='access-wc' element={<AccessWc />} />
+        <Route path='access-wc-/import/:id' element={<ImportWallet />} />
       </Routes>
       <Toaster position="top-right"/>
     </BrowserRouter>
